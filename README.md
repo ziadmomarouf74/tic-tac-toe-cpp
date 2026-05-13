@@ -1,7 +1,7 @@
 
 # 🎮 Tic Tac Toe Game (C++)
 
-A multiplayer Tic Tac Toe game built using C++ and Object-Oriented Programming.
+A multiplayer Tic Tac Toe game built using C++ .
 
 ---
 
